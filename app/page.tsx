@@ -115,7 +115,7 @@ export default function Component() {
                 <div className="space-y-4">
                   <Button
                     className="bg-gradient-to-r from-rose-500 to-pink-500 hover:from-rose-600 hover:to-pink-600 text-white font-semibold px-8 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 mr-2"
-                    onClick={() => window.open("/carta.pdf", "_blank")}
+                    onClick={() => window.open("/cartaa.pdf", "_blank")}
                   >
                     Ver PDF 📄
                   </Button>
@@ -146,8 +146,7 @@ export default function Component() {
                       </p>
 
                       <p className="italic">
-                        (E sim, a letra não ajuda muito, KKKKKKK, mas o carinho é sincero). Se quiser trocar uma
-                        ideia...
+                        (E sim, a letra não ajuda muito, KKKKKKK, mas o carinho é sincero).
                       </p>
                     </div>
                   </div>
