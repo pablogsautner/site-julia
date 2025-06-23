@@ -100,7 +100,7 @@ export default function Component() {
                 className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-semibold px-8 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
                 onClick={() => window.open("https://www.youtube.com/watch?v=yQFImndjBBw", "_blank")}
               >
-                Ler Poema 📝
+                Ver o Poema 📝
               </Button>
               <p className="text-sm text-gray-500 mt-2">"Seu Nome" - Um poema que me lembra você</p>
             </CardContent>
